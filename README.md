@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/chandrikadeb7/chandrikadeb7/blob/master/readme.gif">
 </p>
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on Blockchain
