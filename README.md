@@ -17,3 +17,9 @@
 - 😄 Pronouns: As u may
 - ⚡ Fun fact: still in 90s
 
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/ingridrselis)
+[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/_ing_)
+[![](https://img.shields.io/badge/-meetup-EE3E5D?style=flat-square)](https://www.meetup.com/members/2623543/)
+[![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://resume.io/r/zUDwciy)
+[![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.youracclaim.com/users/ingridroslis/badges)
