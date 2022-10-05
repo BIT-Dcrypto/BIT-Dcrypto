@@ -5,7 +5,7 @@
 
 
 <h2> Hi, I'm BIT_Dcrypto! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/9LXK53YbaDpWAGhqTO/giphy.gif" width="230" style="border-radius: 50px; padding:20px; ">
+<!-- img align='right' src="https://media.giphy.com/media/9LXK53YbaDpWAGhqTO/giphy.gif" width="230" style="border-radius: 50px; padding:20px; " -->
 <p><em>Graduated from <a href="https://www.bitmesra.ac.in/">Birla Institute Of Technology,Mesra</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
