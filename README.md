@@ -37,3 +37,11 @@ const BIT = {
 [![](https://img.shields.io/badge/-meetup-EE3E5D?style=flat-square)](https://www.meetup.com/members/2623543/)
 [![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://resume.io/r/zUDwciy)
 [![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.youracclaim.com/users/ingridroslis/badges)
+
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+<br/>
+
+---
